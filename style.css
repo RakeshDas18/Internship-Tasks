@@ -81,6 +81,18 @@ body {
   border-color: #1877F2;
 }
 
+.show-password-container {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.show-password-container input[type="checkbox"] {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+
 .forgot-password {
   text-align: right;
   font-size: 14px;
